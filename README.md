@@ -9,7 +9,7 @@ Step By Step Command Line On Termux :
 2. pkg install curl
 3. pkg install git
 4. git clone https://github.com/KucingMangkal/gojeksantai
-5. cd gojekin
+5. cd gojeksantai
 6. php gojek.php
 7. masukin nomor hp
 8. masukin kode verifikasi(OTP)
